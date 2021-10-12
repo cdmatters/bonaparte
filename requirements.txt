@@ -163,7 +163,7 @@ numba==0.38.1
 numpy==1.14.3
 oauth2client==3.0.0
 oauthlib==2.1.0
-opencv-python==3.4.1.15
+opencv-python==3.4.7.28
 ordereddict==1.1
 packaging==17.1
 pager==3.3
