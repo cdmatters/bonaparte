@@ -32,7 +32,7 @@ cached-property==1.4.2
 cachetools==2.1.0
 capstone==3.0.4
 cassandra-driver==3.14.0
-celery==4.1.1
+celery==5.2.2
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
